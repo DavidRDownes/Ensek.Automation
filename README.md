@@ -12,6 +12,7 @@ API Testing solution using Specflow, NUnit, HttpClient
 - Domain level testing 
 - Code quality
 - Better namespace breakdown (Make it more domain specifc)
+- Reporting
 
 ## Other Considerations
 
